@@ -1,9 +1,3 @@
-# Attach-Bot-V2
-
-An advanced telegram attach bot
-
----
-
 ```
 Made with Python3
 (C) @FayasNoushad
@@ -16,7 +10,7 @@ License -> https://github.com/FayasNoushad/Attach-Bot-V2/blob/main/LICENSE
 ## Deploy 
 
 ```sh
-git clone https://github.com/FayasNoushad/Attach-Bot-V2/tree/main
+git clone https://github.com/FayasNoushad/Attach-Bot-V2.git
 cd Attach-Bot-V2
 pip3 install -r requirements.txt
 # <Create Variables appropriately>
@@ -40,3 +34,5 @@ python3 main.py
 - [Fayas Noushad](https://github.com/FayasNoushad)
 - [Pyrogram](https://github.com/pyrogram/pyrogram)
 - [Attach-Bot](https://github.com/FayasNoushad/Attach-Bot)
+
+---
