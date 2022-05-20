@@ -11,6 +11,7 @@ An advanced telegram link in a message attach bot
 - `DATABASE_URL` MongoDB URL
 - `BOT_OWNER` Bot owner ID
 
+https://heroku.com/deploy?template=https://github.com/Shamilpoli/Attach-Bot-V2
 ---
 
 ## Old Version
