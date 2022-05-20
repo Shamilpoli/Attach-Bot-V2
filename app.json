@@ -24,7 +24,7 @@
 
     "env": {
 
-      "TG_BOT_TOKEN": {
+      "API_HASH": {
 
         "description": "telegrambot token",
 
